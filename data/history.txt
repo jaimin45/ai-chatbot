@@ -1,0 +1,68 @@
+Title: A Decade-wise Overview of Artificial Intelligence History
+
+The history of Artificial Intelligence (AI) is marked by key milestones, influential figures, and paradigm shifts across decades. Below is a comprehensive overview organized decade-wise.
+
+1950s: Birth of AI and Symbolic Reasoning
+Key Events:
+
+The 1956 Dartmouth Conference marks the official birth of AI as a field.
+
+Early pioneers: John McCarthy, Marvin Minsky, Claude Shannon, Nathaniel Rochester.
+
+Foundational Systems:
+
+Logic Theorist (1956) – First program mimicking human problem-solving.
+
+General Problem Solver (GPS) – Early attempt at a universal problem-solving AI.
+
+Dominant Paradigm:
+Symbolic AI – Representing knowledge and reasoning through formal logic and symbols.
+
+1980s: Rise and Fall of Expert Systems & The AI Winter
+Expert Systems Boom:
+AI became commercially popular with expert systems like XCON, which helped configure computer orders at Digital Equipment Corporation (DEC).
+
+AI Winter:
+Mid-to-late 1980s saw a dramatic decline in AI funding and interest, called the AI Winter, driven by unmet promises and technical limitations.
+
+Shift in Research:
+The decade also witnessed the return of connectionist approaches like Neural Networks, leading to renewed research interest.
+
+1990s: Emergence of Machine Learning and Data-Driven AI
+Key Milestones:
+
+Rise of Machine Learning (ML), moving from symbolic systems to statistical models.
+
+Growth of Data Mining for knowledge discovery from large datasets.
+
+Notable Achievement:
+In 1997, IBM’s Deep Blue defeated world chess champion Garry Kasparov, showcasing AI’s growing computational power.
+
+Paradigm Shift:
+The AI community shifted towards learning-based approaches, including decision trees, support vector machines (SVMs), and Bayesian methods.
+
+2000s: Big Data and Precursors to Deep Learning
+Trends:
+
+Explosion of Big Data leading to better supervised and unsupervised learning models.
+
+Growth in compute power allowed for larger scale experiments.
+
+Statistical Machine Learning:
+Algorithms like Random Forests, Gradient Boosting, and Support Vector Machines became widely used.
+
+Early Deep Learning Seeds:
+Research on multi-layer neural networks and unsupervised pre-training methods set the stage for the 2010s deep learning revolution.
+
+Key Document Types Used (For Each Decade):
+Original Research Papers
+
+Seminal Conference Proceedings
+
+Historical Review Articles
+
+Technical Reports
+
+Synthesis and Summary:
+The evolution of AI has transitioned from symbolic logic-based systems in the 1950s to expert systems in the 1980s, to machine learning and data-driven techniques in the 1990s and 2000s. Each decade has contributed foundational methods, tools, and ideas that shape today’s AI landscape.
+
